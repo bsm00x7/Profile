@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FLUTTER developer from Tunisia</h3>
 <img src="https://img.freepik.com/vecteurs-libre/illustration-du-concept-travail_114360-27000.jpg?t=st=1743771826~exp=1743775426~hmac=a0b470cb67054bb16f402054758d13a82b794b2b85085ac9c260e58aa4de68c4&w=740" alt="" width="400"  srcset="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bassenaser124&label=Profile%20views&color=0e75b6&style=flat" alt="bassenaser124" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bassenaser124&label=Profile%20views&color=0e75b6&style=flat" center alt="bassenaser124" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bassenaser124" alt="bassenaser124" /></a> </p>
 
